@@ -1,6 +1,6 @@
 {
     "identityPoolName": "tutorialamplifywithraed8cee1_identitypool_aed8cee1",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "tutoriaed8cee1",
     "userPoolName": "tutorialamplifywithraed8cee1_userpool_aed8cee1",
     "autoVerifiedAttributes": [
